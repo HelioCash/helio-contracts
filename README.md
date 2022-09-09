@@ -6,12 +6,12 @@ Smart Contracts for Helio.Cash
 
 ### Helio Cash Token
 
-[0xB38B969f151E8217C917fE0532382172BB6Fb83E](https://polygonscan.com/address/0xB38B969f151E8217C917fE0532382172BB6Fb83E)
+[0xB38B969f151E8217C917fE0532382172BB6Fb83E](https://polygonscan.com/address/0xB38B969f151E8217C917fE0532382172BB6Fb83E) /
 [Helio Ownership Renouced](https://polygonscan.com/tx/0x2016907e6cf0dc265855a3b77ce61dcf04ff4300413c4bcc3c1a46f67ca89fb7)
 
 ### HSHARE
 
-[0x8521F10339fA59417C90d3808426659b452a73E8](https://polygonscan.com/address/0x8521F10339fA59417C90d3808426659b452a73E8)
+[0x8521F10339fA59417C90d3808426659b452a73E8](https://polygonscan.com/address/0x8521F10339fA59417C90d3808426659b452a73E8) / 
 [Hshare Ownership Renouced](https://polygonscan.com/tx/0x81a433c2e5e8667a0418728565e8cb3c83f84b6a7a739cf16c604a6ced74cd5e)
 
 ### HBOND
